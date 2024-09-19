@@ -34,7 +34,7 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
   # publish: true
-  apiBaseUrl: https://api.github.com
+  # apiBaseUrl: https://api.github.com
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
