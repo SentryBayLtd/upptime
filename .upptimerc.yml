@@ -24,7 +24,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /upptime
-  logoUrl: /SentryBay-website-logo.webp
+  logoUrl: https://sentrybayltd.github.io/upptime/SentryBay-website-logo.webp
   name: Uptime Status
   introTitle: "Welcome to SentryBay's uptime monitor and status page."
   introMessage: Below you'll find status information for each of SentryBay's products and services.
@@ -33,7 +33,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  themeUrl: /sentrybay.css
+  themeUrl: https://sentrybayltd.github.io/upptime/sentrybay.css
   
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
