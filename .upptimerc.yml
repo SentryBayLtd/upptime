@@ -29,12 +29,14 @@ status-website:
   introTitle: "Welcome to SentryBay's uptime monitor and status page."
   introMessage: Below you'll find status information for each of SentryBay's products and services.
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Home
+      href: https://sentrybay.com/
+    - title: Contact
+      href: https://sentrybay.com/contact/
   themeUrl: https://sentrybayltd.github.io/upptime/sentrybay.css
   favicon: https://sentrybayltd.github.io/upptime/favicon.png
   
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+i18n:
+  footer: This page is powered by [Upptime](https://upptime.js.org)
