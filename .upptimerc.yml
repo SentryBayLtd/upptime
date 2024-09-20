@@ -33,6 +33,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
+  themeUrl: https://raw.githubusercontent.com/SentryBayLtd/upptime/master/assets/sentrybay.css
+  
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
