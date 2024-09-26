@@ -7,6 +7,10 @@ sites:
     url: https://www.sentrybay.com
   - name: "Armored Client: Portal"
     url: $AC_PORTAL_URL
+  - name: "Armored Client: Licensing"
+    url: $AC_LICENSING_URL
+  - name: "Armored ID: Licensing"
+    url: $AID_LICENSING_URL
 #  - name: Google
 #    url: https://www.google.com
 #  - name: Wikipedia
