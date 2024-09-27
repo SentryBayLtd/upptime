@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 462,
-    "timeDay": 439,
-    "timeWeek": 464,
-    "timeMonth": 462,
-    "timeYear": 462,
+    "time": 466,
+    "timeDay": 467,
+    "timeWeek": 473,
+    "timeMonth": 466,
+    "timeYear": 466,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1933,
-    "timeDay": 2229,
-    "timeWeek": 1933,
-    "timeMonth": 1933,
-    "timeYear": 1933,
+    "time": 1927,
+    "timeDay": 2162,
+    "timeWeek": 1927,
+    "timeMonth": 1927,
+    "timeYear": 1927,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 792,
-    "timeDay": 803,
-    "timeWeek": 792,
-    "timeMonth": 792,
-    "timeYear": 792,
+    "time": 874,
+    "timeDay": 899,
+    "timeWeek": 874,
+    "timeMonth": 874,
+    "timeYear": 874,
     "dailyMinutesDown": {}
   },
   {
@@ -64,31 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 484,
-    "timeDay": 483,
-    "timeWeek": 484,
-    "timeMonth": 484,
-    "timeYear": 484,
+    "time": 531,
+    "timeDay": 540,
+    "timeWeek": 531,
+    "timeMonth": 531,
+    "timeYear": 531,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Armored ID: Surveillance",
-    "url": "$AID_SURVEILLANCE_URL",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "armored-id-surveillance",
-    "status": "down",
-    "uptime": "0.05%",
-    "uptimeDay": "0.05%",
-    "uptimeWeek": "0.05%",
-    "uptimeMonth": "0.05%",
-    "uptimeYear": "0.05%",
-    "time": 704,
-    "timeDay": 704,
-    "timeWeek": 704,
-    "timeMonth": 704,
-    "timeYear": 704,
-    "dailyMinutesDown": {
-      "2024-09-27": 15
-    }
   }
 ]
