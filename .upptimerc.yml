@@ -11,10 +11,6 @@ sites:
     url: $AC_LICENSING_URL
   - name: "Armored ID: Licensing"
     url: $AID_LICENSING_URL
-  - name: "Armored ID: Surveillance"
-    url: $AID_SURVEILLANCE_URL
-    headers:
-      - "Authorization: Basic $AID_SURVEILLANCE_AUTH"
 #  - name: Google
 #    url: https://www.google.com
 #  - name: Wikipedia
