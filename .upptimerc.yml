@@ -14,7 +14,7 @@ sites:
   - name: "Armored ID: Surveillance"
     url: $AID_SURVEILLANCE_URL
     headers:
-      - "Authorization: Basic $AID_SURVEILLANCE_AUTH"
+      - Authorization: "Basic $AID_SURVEILLANCE_AUTH"
 #  - name: Google
 #    url: https://www.google.com
 #  - name: Wikipedia
