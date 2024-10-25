@@ -4,18 +4,20 @@
     "url": "https://www.sentrybay.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.sentrybay.com.ico",
     "slug": "sentry-bay",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 832,
-    "timeDay": 758,
-    "timeWeek": 533,
-    "timeMonth": 1025,
-    "timeYear": 832,
-    "dailyMinutesDown": {}
+    "time": 820,
+    "timeDay": 456,
+    "timeWeek": 525,
+    "timeMonth": 1011,
+    "timeYear": 820,
+    "dailyMinutesDown": {
+      "2024-10-25": 0
+    }
   },
   {
     "name": "Armored Client: Portal",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2403,
-    "timeDay": 2826,
-    "timeWeek": 2735,
-    "timeMonth": 2403,
-    "timeYear": 2403,
+    "time": 2444,
+    "timeDay": 3851,
+    "timeWeek": 2870,
+    "timeMonth": 2444,
+    "timeYear": 2444,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 867,
-    "timeDay": 865,
-    "timeWeek": 763,
-    "timeMonth": 867,
-    "timeYear": 867,
+    "time": 866,
+    "timeDay": 813,
+    "timeWeek": 770,
+    "timeMonth": 866,
+    "timeYear": 866,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 547,
-    "timeDay": 492,
+    "time": 546,
+    "timeDay": 514,
     "timeWeek": 491,
-    "timeMonth": 547,
-    "timeYear": 547,
+    "timeMonth": 546,
+    "timeYear": 546,
     "dailyMinutesDown": {}
   }
 ]
