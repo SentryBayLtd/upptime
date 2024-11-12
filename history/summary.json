@@ -26,18 +26,20 @@
     "url": "$AC_PORTAL_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "armored-client-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2500,
-    "timeDay": 3000,
-    "timeWeek": 2626,
-    "timeMonth": 2662,
-    "timeYear": 2500,
-    "dailyMinutesDown": {}
+    "time": 2493,
+    "timeDay": 2552,
+    "timeWeek": 2561,
+    "timeMonth": 2645,
+    "timeYear": 2493,
+    "dailyMinutesDown": {
+      "2024-11-12": 0
+    }
   },
   {
     "name": "Armored Client: Licensing",
