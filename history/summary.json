@@ -68,19 +68,19 @@
     "url": "$AID_LICENSING_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "armored-id-licensing",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 556,
-    "timeDay": 627,
-    "timeWeek": 599,
-    "timeMonth": 554,
+    "timeDay": 598,
+    "timeWeek": 592,
+    "timeMonth": 553,
     "timeYear": 556,
     "dailyMinutesDown": {
-      "2025-05-16": 0
+      "2025-05-16": 10
     }
   }
 ]
