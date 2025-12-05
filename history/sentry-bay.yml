@@ -1,7 +1,7 @@
 url: https://www.sentrybay.com
-status: up
-code: 200
-responseTime: 479
-lastUpdated: 2025-12-04T23:02:10.512Z
+status: down
+code: 500
+responseTime: 105
+lastUpdated: 2025-12-05T08:55:59.450Z
 startTime: 2024-09-19T10:49:28.710Z
 generator: Upptime <https://github.com/upptime/upptime>
