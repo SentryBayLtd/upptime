@@ -11,6 +11,10 @@ sites:
     url: $AC_LICENSING_URL
   - name: "Armored ID: Licensing"
     url: $AID_LICENSING_URL
+  - name: "Support"
+    url: https://support.sentrybay.com
+  - name: "Mobile"
+    url: https://mobile.sentrybay.com
 #  - name: Google
 #    url: https://www.google.com
 #  - name: Wikipedia
