@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 538,
-    "timeDay": 395,
-    "timeWeek": 400,
-    "timeMonth": 400,
+    "timeDay": 394,
+    "timeWeek": 405,
+    "timeMonth": 402,
     "timeYear": 518,
     "dailyMinutesDown": {
       "2025-12-05": 27,
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2472,
-    "timeDay": 3685,
-    "timeWeek": 3450,
-    "timeMonth": 3370,
-    "timeYear": 2437,
+    "time": 2477,
+    "timeDay": 3341,
+    "timeWeek": 3481,
+    "timeMonth": 3358,
+    "timeYear": 2438,
     "dailyMinutesDown": {}
   },
   {
@@ -50,9 +50,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 949,
-    "timeDay": 1434,
-    "timeWeek": 1312,
-    "timeMonth": 1210,
+    "timeDay": 1177,
+    "timeWeek": 1283,
+    "timeMonth": 1186,
     "timeYear": 970,
     "dailyMinutesDown": {
       "2026-06-06": 29
@@ -69,11 +69,11 @@
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 597,
-    "timeDay": 629,
-    "timeWeek": 585,
-    "timeMonth": 556,
-    "timeYear": 608,
+    "time": 596,
+    "timeDay": 558,
+    "timeWeek": 575,
+    "timeMonth": 550,
+    "timeYear": 607,
     "dailyMinutesDown": {
       "2026-06-06": 21
     }
@@ -90,9 +90,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 190,
-    "timeDay": 264,
-    "timeWeek": 191,
-    "timeMonth": 190,
+    "timeDay": 202,
+    "timeWeek": 201,
+    "timeMonth": 188,
     "timeYear": 190,
     "dailyMinutesDown": {}
   },
@@ -102,18 +102,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mobile.sentrybay.com.ico",
     "slug": "mobile",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 574,
-    "timeDay": 601,
-    "timeWeek": 558,
-    "timeMonth": 547,
-    "timeYear": 574,
-    "dailyMinutesDown": {
-      "2026-06-06": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 573,
+    "timeDay": 521,
+    "timeWeek": 554,
+    "timeMonth": 541,
+    "timeYear": 573,
+    "dailyMinutesDown": {}
   }
 ]
