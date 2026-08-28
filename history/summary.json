@@ -45,11 +45,11 @@
     "url": "$AC_LICENSING_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "armored-client-licensing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 1002,
     "timeDay": 906,
@@ -57,7 +57,8 @@
     "timeMonth": 1207,
     "timeYear": 1045,
     "dailyMinutesDown": {
-      "2026-06-06": 29
+      "2026-06-06": 29,
+      "2026-08-28": 17
     }
   },
   {
@@ -65,19 +66,20 @@
     "url": "$AID_LICENSING_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "armored-id-licensing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 595,
     "timeDay": 478,
     "timeWeek": 481,
     "timeMonth": 552,
     "timeYear": 604,
     "dailyMinutesDown": {
-      "2026-06-06": 21
+      "2026-06-06": 21,
+      "2026-08-28": 10
     }
   },
   {
@@ -103,17 +105,19 @@
     "url": "https://mobile.sentrybay.com",
     "icon": "https://icons.duckduckgo.com/ip3/mobile.sentrybay.com.ico",
     "slug": "mobile",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 570,
     "timeDay": 451,
     "timeWeek": 573,
     "timeMonth": 580,
     "timeYear": 570,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-28": 3
+    }
   }
 ]
