@@ -4,21 +4,21 @@
     "url": "https://www.sentrybay.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.sentrybay.com.ico",
     "slug": "sentry-bay",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 488,
-    "timeDay": 406,
-    "timeWeek": 424,
+    "timeDay": 422,
+    "timeWeek": 427,
     "timeMonth": 449,
     "timeYear": 452,
     "dailyMinutesDown": {
       "2025-12-05": 27,
       "2026-03-27": 29,
-      "2026-11-13": 0
+      "2026-11-13": 8
     }
   },
   {
